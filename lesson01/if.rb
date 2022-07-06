@@ -1,6 +1,6 @@
 if rand(0..1) == 1
-puts 'Попал'
+puts 'got'
 else
-puts 'Промазал'
+puts 'miss'
 end
 
